@@ -1,0 +1,16 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "type": "module",
+  "scripts": {
+    "test": "./fetch.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.0",
+    "shelljs": "^0.8.5"
+  }
+}
